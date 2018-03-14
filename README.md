@@ -1,2 +1,2 @@
-# madde-test.github.io
+# madde-test-pages
 Trying out GitHub Pages
